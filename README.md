@@ -1,2 +1,2 @@
 # Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning
-Mohon maaf, repository ini masih diperbaiki karena mengalami kendala tertentu.
+Sorry, this repository is still being fixed because it is experiencing certain problems.
